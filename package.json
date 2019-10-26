@@ -1,0 +1,17 @@
+{
+  "name": "astar",
+  "version": "1.0.0",
+  "description": "Simple A-star algorithm implementation",
+  "main": "astar.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
